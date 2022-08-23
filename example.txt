@@ -1,2 +1,3 @@
 hello my name is dipak kumar and i am learning git from technical guftgu youtube channel , he is an awesome teacher .
-
+git was developed by linus travolds.
+He is the same man who developed linux.
